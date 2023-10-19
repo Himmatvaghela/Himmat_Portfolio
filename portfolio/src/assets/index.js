@@ -31,7 +31,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import socially from './socially.png'
-import weatherApp from './weatherApp.png';
+import weatherApp from './WeatherApp.png';
 import typingspeed from './typingspeed.png'
 
 export {
