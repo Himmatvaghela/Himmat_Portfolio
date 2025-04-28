@@ -24,7 +24,8 @@ import {
     angular,
     socially,
     weatherApp,
-    typingspeed
+  typingspeed,
+  in2it
   } from "../assets";
   
   export const navLinks = [
@@ -42,10 +43,10 @@ import {
     },
   ];
   
-  const services = [
-    {
-      title: "Web Developer",
-      icon: web,
+const services = [
+      {
+      title: "Angular Developer",
+      icon: angular,
     },
     {
       title: "Frontend Developer",
@@ -53,11 +54,7 @@ import {
     },
     {
       title: "React Developer",
-      icon: backend,
-    },
-    {
-      title: "Angular Developer",
-      icon: creator,
+      icon: reactjs,
     },
     {
       title:'MERN Developer',
@@ -66,6 +63,10 @@ import {
     {
       title:'MEAN Developer',
       icon: backend,
+  },
+        {
+      title: "Web Developer",
+      icon: web,
     },
   ];
   
@@ -95,10 +96,6 @@ import {
       icon: typescript,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -111,18 +108,29 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
     },
   ];
   
-  const experiences = [
+const experiences = [
+   {
+      title: "Frontend Developer - (Angular)",
+      company_name: "In2it Technologies",
+      icon: in2it,
+      iconBg: "#383E56",
+      date: "April 2024 - Current",
+          points: [
+        'Api Integration.',
+        'State Management.',
+        'Code Testing with jasmine and karma.',
+        'Integrated Tables with ag-grid library.',
+        'Integrated charts with real time data using amcharts library.',
+        'Worked on Micro-Frontend based project in angular. there were seperate remote application was there which we connected with shell application on which I Worked.'
+      ],
+    },
     {
-      title: "Angular JS Developer",
+      title: "Angular Developer",
       company_name: "United Web Enhencers",
       icon: starbucks,
       iconBg: "#383E56",
@@ -134,6 +142,7 @@ import {
         "Made hotel booking platform with Angular Js and Typescript.","Implemented user-friendly hotel booking and advanced filtering for price, property, and type.","Utilized Angular, Material-UI, HTML, CSS, and JavaScript.","Role: Frontend Developer"
       ],
     },
+       
   ];
   
   const testimonials = [

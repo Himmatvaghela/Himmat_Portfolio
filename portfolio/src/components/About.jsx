@@ -41,7 +41,7 @@ const About = () => {
         variants={fadeIn('','',0.1,1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a frontend developer with 6 months of experience as an Angular Developer, specializing in creating captivating user interfaces. While I have a basic understanding of backend technologies like Node.js, Express, and MongoDB, my proficiency lies in frontend development. My skill set includes React, Angular, Redux, JavaScript, HTML, CSS, SCSS, and a passion for solving complex web development challenges. I thrive in collaborative team environments and am ready to contribute my expertise to deliver outstanding user experiences for your web projects.
+        I'm a frontend developer with More than 1.6 years of experience as an Angular Developer, specializing in creating captivating user interfaces. While I have a basic understanding of backend technologies like Node.js, Express, and MongoDB, my proficiency lies in frontend development. My skill set includes React, Angular, Redux, JavaScript, HTML, CSS, SCSS, and a passion for solving complex web development challenges. I thrive in collaborative team environments and am ready to contribute my expertise to deliver outstanding user experiences for your web projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

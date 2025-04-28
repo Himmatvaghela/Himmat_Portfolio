@@ -26,6 +26,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import in2it from "./company/In2IT-Technologies.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -67,4 +68,5 @@ export {
   socially,
   weatherApp,
   typingspeed,
+  in2it
 };

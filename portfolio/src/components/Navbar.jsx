@@ -22,7 +22,7 @@ const Navbar = () => {
         }}
         >
           <img src={logo} alt='logo' className='w-14 h-14 object-contain'/>
-          <p className='font-bold cursor-pointer text-[18px] text-white flex'>Himmat &nbsp;<span className='sm:block hidden'>| Professional Developer</span></p>
+          <p className='font-bold cursor-pointer text-[18px] text-white flex'>Himmat &nbsp;<span className='sm:block hidden'>| Frontend Developer</span></p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10 items-center'>
